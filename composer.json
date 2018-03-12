@@ -1,0 +1,17 @@
+{
+    "name": "administrator/rj-ticker",
+    "description": "a news ticker for wordpress",
+    "type": "no",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Rashadul Alam",
+            "email": "rashadul91@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {"Inc\\":"./inc"}
+    }
+}
